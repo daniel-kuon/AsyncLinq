@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>8</LangVersion>
+        <Nullable>enable</Nullable>
+        <TargetFrameworks>netstandard1.0;netstandard1.1;netstandard1.2;netstandard1.3;netstandard1.4;netstandard1.5;netstandard1.6;netstandard1.7;netstandard2.0;netstandard2.1</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>AsyncLinq</Title>
+        <Authors>Daniel Kuon</Authors>
+        <Description>Extension methods to use default Linq methods on Task objects for IEnumerables, Arrays and Lists by wrapping the original menthods in async code.
+This library curently supports all .Net Standards from 1.0 to 2.1.</Description>
+        <PackageProjectUrl>https://github.com/daniel-kuon/AsyncLinq</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/daniel-kuon/AsyncLinq/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/daniel-kuon/AsyncLinq</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <SignAssembly>true</SignAssembly>
+        <PackageVersion>0.9.0</PackageVersion>
+        <AssemblyVersion>0.9.0</AssemblyVersion>
+        <FileVersion>0.9.0</FileVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(TargetFramework)' == 'netstandard2.1'">
+        <DefineConstants>NETSTANDARD2_1;NETSTANDARD1_6</DefineConstants>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(TargetFramework)' == 'netstandard2.0'">
+        <DefineConstants>NETSTANDARD1_6</DefineConstants>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(TargetFramework)' == 'netstandard1.7'">
+        <DefineConstants>NETSTANDARD1_6</DefineConstants>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(TargetFramework)' == 'netstandard1.6'">
+        <DefineConstants>NETSTANDARD1_6</DefineConstants>
+    </PropertyGroup>
+
+</Project>

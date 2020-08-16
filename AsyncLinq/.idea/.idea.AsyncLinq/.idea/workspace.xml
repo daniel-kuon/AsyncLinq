@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44bbd2aa-93c3-44f1-9854-17e5b067f5c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/cssxfire.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.AsyncLinq/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AsyncLinq.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AsyncLinq.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enumerable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderedEnumerable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/cssxfire.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/.idea/.idea.PiCalc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/_1_SquareCircleAreaRandom/_1_SquareCircleAreaRandom.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PiCalc/global.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Array.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/List.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderedEnumerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/1E/Last.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/1D/Join.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/D/AnyAll.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/E/AppendPrepend.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/14/DefaultIfEmpty.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/global.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/C/Aggregate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/10/Cast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/9/Enumerable.SpeedOpt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/1C/Intersect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/17/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/F/Average.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/A/Skip.SpeedOpt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/22/OrderBy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/21/Min.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/vAny/SourcesCache/FE33AF65-74D3-4A3A-81F9-D5A75C6E5D89/13/Count.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ArrayExtensions.cs" />
+        <option value="$PROJECT_DIR$/dd.cs" />
+        <option value="$PROJECT_DIR$/OrderedEnumerable.cs" />
+        <option value="$PROJECT_DIR$/Enumerable.cs" />
+        <option value="$PROJECT_DIR$/Array.cs" />
+        <option value="$PROJECT_DIR$/List.cs" />
+        <option value="$PROJECT_DIR$/AsyncLinq.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fHOEQ5ZYffNc4wSymJhRR3cqcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44bbd2aa-93c3-44f1-9854-17e5b067f5c4" name="Default Changelist" comment="" />
+      <created>1595871439009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595871439009</updated>
+      <workItem from="1595871466273" duration="14283000" />
+      <workItem from="1595964656895" duration="1677000" />
+      <workItem from="1596282725066" duration="1842000" />
+      <workItem from="1596566731682" duration="1390000" />
+      <workItem from="1596723734563" duration="880000" />
+      <workItem from="1596724856194" duration="599000" />
+      <workItem from="1597174768127" duration="596000" />
+      <workItem from="1597586142810" duration="4668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="100" width="1734" height="1927" key="DiffContextDialog" timestamp="1597593119674">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="93" y="100" width="1734" height="1927" key="DiffContextDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1597593119674" />
+    <state x="1700" y="815" key="FileChooserDialogImpl" timestamp="1596570705923">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1700" y="815" key="FileChooserDialogImpl/0.0.3840.2120@0.0.3840.2120" timestamp="1596570705923" />
+    <state x="1264" y="696" key="LayersDialog" timestamp="1595886792297">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1264" y="696" key="LayersDialog/-3840.0.3840.2120/0.0.3840.2120@0.0.3840.2120" timestamp="1595886792297" />
+    <state x="1512" y="792" key="Rider.ProjectTemplateDialog.Size" timestamp="1596481633498">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1512" y="792" key="Rider.ProjectTemplateDialog.Size/0.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1596481633498" />
+    <state x="211" y="798" key="SettingsEditor" timestamp="1596570924810">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="211" y="798" key="SettingsEditor/-3840.0.3840.2120/0.0.3840.2120@0.0.3840.2120" timestamp="1595886786736" />
+    <state x="211" y="798" key="SettingsEditor/0.0.3840.2120@0.0.3840.2120" timestamp="1596570924810" />
+    <state x="135" y="839" width="2249" height="1041" key="find.popup" timestamp="1595877336812">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="135" y="839" width="2249" height="1041" key="find.popup/-3840.0.3840.2120/0.0.3840.2120@-3840.0.3840.2120" timestamp="1595877336812" />
+    <state x="135" y="839" width="2249" height="1041" key="find.popup/-3840.0.3840.2120/0.0.3840.2120@0.0.3840.2120" timestamp="1595875129661" />
+    <state x="1576" y="510" key="run.anything.popup" timestamp="1597587313674">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1576" y="510" key="run.anything.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1597587313674" />
+  </component>
+</project>
